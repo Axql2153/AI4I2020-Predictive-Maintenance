@@ -169,21 +169,15 @@ Further validation using real industrial data, different machines, and varying o
 ```text
 AI4I2020-Predictive-Maintenance/
 │
+├── .gitignore
 ├── README.md
 ├── requirements.txt
-├── LICENSE
-├── .gitignore
 │
 ├── notebooks/
 │   └── AI4I2020_Predictive_Maintenance.ipynb
 │
 ├── Datasets/
-│   └── ai4i2020.csv
-│
-└── images/
-    ├── confusion_matrix.png
-    ├── model_comparison.png
-    └── feature_distributions.png
+    └── ai4i2020.csv
 ```
 
 ## 8. Installation and Usage
