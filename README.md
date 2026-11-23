@@ -1,3 +1,5 @@
+_Lee este documento en [Español](https://github.com/Axql2153/AI4I2020-Predictive-Maintenance/blob/main/README_ES.md)_
+
 # Predictive Maintenance: Machine Failure Classification
 
 **Binary Classification | XGBoost | PyTorch | Optuna | Scikit-learn**
