@@ -217,4 +217,3 @@ Ejecuta las celdas del notebook de forma secuencial.
 **Autor:** Axel Vazquez  
 
 **Dominio:** Mantenimiento Predictivo Industrial
-```
